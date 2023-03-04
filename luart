@@ -1,3 +1,17 @@
+    },
+    Spoofer = {
+        MemorySpoofer = true,
+        MemoryTabColor = Color3.fromRGB(211, 88, 33),
+        MemoryMost = 85000,
+        MemoryLeast = 80000,
+ 
+        PingSpoofer = true,
+        PingTabColor = Color3.fromRGB(211, 88, 33),
+        PingMost = 2000,
+        PingLeast = 1000
+    }
+}
+ 
 -- // Locals
  
 local Players, Uis, RService, Inset, CurrentCamera = 
